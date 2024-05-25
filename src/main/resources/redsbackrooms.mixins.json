@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 1100,
+  "package": "net.bball_262.backrooms.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "redsbackrooms.refmap.json",
+  "mixins": [
+    "ModJigsawInfiniteSaver"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
